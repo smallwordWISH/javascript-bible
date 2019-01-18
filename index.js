@@ -1,3 +1,9 @@
+/* Test 1 note  
+    平方根求法 Math.sqrt(num)
+
+*/
+
+
 /*
 Modify "personInfo" function to match console.log output at the end of the challenge.
 
