@@ -1,6 +1,5 @@
 /* Test 1 note  
     平方根求法 Math.sqrt(num)
-
 */
 
 
